@@ -1,14 +1,16 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://pratikshapatare.netlify.app/)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+![Screenshot (1269)](https://github.com/PP-Pratiksha/Pratiksha-Patare-Portfolio/assets/117968440/59995cab-81f0-46bd-8799-6ea2d3f36bca)
+![Screenshot (1270)](https://github.com/PP-Pratiksha/Pratiksha-Patare-Portfolio/assets/117968440/bd0dfdda-cf96-4bfa-88e3-aad76ed9b9ef)
+![Screenshot (1271)](https://github.com/PP-Pratiksha/Pratiksha-Patare-Portfolio/assets/117968440/24490833-28ae-485c-9324-c1396f103aa6)
+![Screenshot (1272)](https://github.com/PP-Pratiksha/Pratiksha-Patare-Portfolio/assets/117968440/06aa87bb-a8d9-465c-9b18-31ebf154b572)
+![Screenshot (1273)](https://github.com/PP-Pratiksha/Pratiksha-Patare-Portfolio/assets/117968440/3410c7e2-159b-44f2-99f9-f6f60a078927)
+
+
+
 
 
 ## Table of Contents
@@ -41,23 +43,11 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+1. Clone the repository: `git clone  https://github.com/PP-Pratiksha/Pratiksha-Patare-Portfolio.git`
+2. Navigate to the project directory: `cd Pratiksha-Patare-Portfolio1`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
 
 ## Usage
 After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
-
-## Contributing
-Contributions are welcome! If you'd like to contribute to My Portfolio, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Open a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
